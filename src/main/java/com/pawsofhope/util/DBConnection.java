@@ -20,7 +20,7 @@ public class DBConnection {
                 return DriverManager.getConnection(
                         "jdbc:mysql://localhost:3306/pawsofhope",
                         "root",
-                        "your_local_password"
+                        "Golden@1640"
                 );
             }
 
